@@ -8,6 +8,7 @@ Flask-SQLAlchemy==2.2
 Flask-WhooshAlchemy==0.56
 Flask-WTF==0.14.2
 buttercms-python==0.7
+markupsafe==2.0.1
 
 gunicorn==19.7.1
 Jinja2==2.9.4
